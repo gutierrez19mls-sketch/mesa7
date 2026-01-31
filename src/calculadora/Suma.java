@@ -1,4 +1,4 @@
-//Listooooo jejeje
+//Listooooo, clase suma jejeje
 
 package calculadora;
 
